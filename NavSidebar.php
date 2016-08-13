@@ -6,26 +6,8 @@ use yii\base\Widget;
 use yii\helpers\Url;
 
 /**
- * A custom bootstrap sidebar navigation menu
+ * A custom bootstrap sidebar nav menu
  *
- * Usage example:
- *
- * ```php
- * echo NavSidebar::widget([
- *     'items' => [
- *         [
- *             'url' => ['site/index'],
- *             'label' => 'Home',
- *             'icon' => 'home'
- *         ],
- *         [
- *             'url' => ['site/about'],
- *             'label' => 'about',
- *             'icon' => 'info-sign'
- *         ],
- *     ],
- * ]);
- * ```
  * @author: Leonard Shtika <leonard@shtika.info>
  */
 class NavSidebar extends Widget
