@@ -1,8 +1,8 @@
 {
     "name": "leoshtika/yii2-nav-sidebar",
-    "description": "A bootstrap sidebar navigation",
+    "description": "A bootstrap sidebar nav for Yii2",
     "type": "yii2-extension",
-    "keywords": ["yii", "nav", "sidebar"],
+    "keywords": ["yii2", "nav", "sidebar", "bootstrap"],
     "require": {
         "yiisoft/yii2": "*"
     },
